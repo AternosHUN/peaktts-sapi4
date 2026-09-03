@@ -3,7 +3,9 @@
 how to use:
 - download exe
 - put it in same folder as the mod dll
-- press SAPI4 button
+- wait for setup to start
+- go through setup
+- restart PEAK
 
 ## why?
 because thunderstore is... interesting to say the least. very interesting.
