@@ -1,11 +1,20 @@
 ## this github is only for hosting the SAPI4 Helper exe used for PeakTTS support
 
 how to use:
+- have PEAK running in background
 - download exe
 - put it in same folder as the mod dll
-- wait for setup to start
-- go through setup
+- if setup starts accept prompt
+- if it doesn't start, restart PEAK
+- accept prompt
 - restart PEAK
+- SAPI4 voices work and old Microsoft ones are installed and usable yipee, yay!
+
+## safety
+
+there are validations are warnings all over to make this as safe as possible.
+since this is third party, when using it, if you dont have SAPI4 runtime and/or the 1999 voice packages installed,
+they will be autoinstalled. keep this in mind! the helper will ask for admin to do so.
 
 ## why?
 because thunderstore is... interesting to say the least. very interesting.
@@ -23,10 +32,6 @@ well this is what moderation is people, bullshittery and lazyness.
 
 i even scrapped the autoinstall for SAPI4 with a button and replaced with just opening it to the github archive
 that has the voice packages to make them happy-er. i guess nothing is enough? i dont know at this point.
-
-either way, there are validations are warnings all over to make this as safe as possible.
-since this is third party, when using it, if you dont have SAPI4 runtime and/or the 1999 voice packages installed,
-they will be autoinstalled. keep this in mind! the helper will ask for admin to do so.
 
 ## dont trust this or the process?
 
