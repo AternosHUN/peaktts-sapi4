@@ -12,7 +12,7 @@ how to use:
 
 ## safety
 
-there are validations are warnings all over to make this as safe as possible.
+there are validations and warnings all over to make this as safe as possible.
 since this is third party, when using it, if you dont have SAPI4 runtime and/or the 1999 voice packages installed,
 they will be autoinstalled. keep this in mind! the helper will ask for admin to do so.
 
