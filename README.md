@@ -16,6 +16,10 @@ there are validations and warnings all over to make this as safe as possible.
 since this is third party, when using it, if you dont have SAPI4 runtime and/or the 1999 voice packages installed,
 they will be autoinstalled. keep this in mind! the helper will ask for admin to do so.
 
+"why does it get flagged as a virus??" because again, it automatically downloads things,
+and neither does Google Chrome or Microsoft Defender like it obviously.
+and again also, this is optional.
+
 ## why?
 because thunderstore is... interesting to say the least. very interesting.
 
