@@ -1,6 +1,6 @@
 ## this github is only for hosting the SAPI4 Helper exe used for PeakTTS support
 
-how to use:
+# how to use:
 - have PEAK running in background
 - download exe
 - put it in same folder as the mod dll
@@ -21,12 +21,12 @@ and neither does Google Chrome or Microsoft Defender like it obviously.
 and again also, this is optional.
 
 ## why?
-because thunderstore is... interesting to say the least. very interesting.
+because Thunderstore is... interesting to say the least. very interesting.
 
-the exe was built into the mod originally. to upload mods to TS, i need
+the exe was built into the mod originally. to upload mods to Thunderstore, i need
 to send them the entire source every time i upload it. thats fine. thats not the problem.
 the problem is, that for literally no reason, while having access and usage to literally
-ALL the files used to build the dll and the exe respectively, denied while saying
+ALL the files used to build the dll and the exe respectively, denied it while saying
 they allow it before i actually sent it.
 
 well this is what moderation is people, bullshittery and lazyness.
@@ -40,4 +40,4 @@ that has the voice packages to make them happy-er. i guess nothing is enough? i 
 ## dont trust this or the process?
 
 dont use it. its not required. its completely optional.
-"oh but i want it tho i dont trust it" yeah bad luck buddy, sry but like what do you want me to do?
+"oh but i want it tho i dont trust it" yeah bad luck buddy, sorry but like what do you want me to do seriously?
