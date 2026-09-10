@@ -1,12 +1,12 @@
 # This GitHub repository is only for hosting the SAPI4 Helper exe used for PeakTTS support
 
 ## How to use:
-- Have PEAK running in background
-- Download exe
-- Put it in same folder as the mod dll
-- If setup starts accept prompt
+- Have PEAK running in the background
+- Download .exe
+- Put it in the same folder where the mod .dll is
+- If setup starts accept prompt if needed
 - If it doesn't start, restart PEAK
-- Accept prompt
+- Accept prompt if needed
 - Restart PEAK
 - SAPI4 voices work and old Microsoft ones are installed and usable, yipee yay!
 
