@@ -1,43 +1,43 @@
-## this github is only for hosting the SAPI4 Helper exe used for PeakTTS support
+# This GitHub repository is only for hosting the SAPI4 Helper exe used for PeakTTS support
 
-# how to use:
-- have PEAK running in background
-- download exe
-- put it in same folder as the mod dll
-- if setup starts accept prompt
-- if it doesn't start, restart PEAK
-- accept prompt
-- restart PEAK
-- SAPI4 voices work and old Microsoft ones are installed and usable yipee, yay!
+## How to use:
+- Have PEAK running in background
+- Download exe
+- Put it in same folder as the mod dll
+- If setup starts accept prompt
+- If it doesn't start, restart PEAK
+- Accept prompt
+- Restart PEAK
+- SAPI4 voices work and old Microsoft ones are installed and usable, yipee yay!
 
-## safety
+## Safety
 
-there are validations and warnings all over to make this as safe as possible.
-since this is third party, when using it, if you dont have SAPI4 runtime and/or the 1999 voice packages installed,
-they will be autoinstalled. keep this in mind! the helper will ask for admin to do so.
+There are validations and warnings all over to make this as safe as possible.
+Since this is third party, when using it, if you don not have SAPI4 runtime and/or the 1999 voice packages installed,
+they will be autoinstalled. Keep this in mind! The helper may ask for admin to do so.
 
-"why does it get flagged as a virus??" because again, it automatically downloads the required things,
+"Why does it get flagged as a virus??" Because again, it automatically downloads the required things,
 and neither does Google Chrome or Microsoft Defender like it obviously.
-and again also, this is optional.
+And again also, this is optional.
 
-## why?
-because Thunderstore is... interesting to say the least. very interesting.
+## Why?
+Because Thunderstore is... Interesting to say the least. Very interesting.
 
-the exe was built into the mod originally. to upload mods to Thunderstore, i need
-to send them the entire source every time i upload it. thats fine. thats not the problem.
-the problem is, that for literally no reason, while having access and usage to literally
-ALL the files used to build the dll and the exe respectively, denied it while saying
-they allow it before i actually sent it.
+The exe was built into the mod originally. To upload mods to Thunderstore, I need
+to send them the entire source every time I update it. That's fine. That's not the problem.
+The problem is, that for literally no reason, while having access and usage to literally
+ALL the files used to build the .dll and the .exe respectively, denied it while saying
+they allow it before I actually sent it.
 
-well this is what moderation is people, bullshittery and lazyness.
+Well this is what moderation is people, bullshittery and lazyness.
 
-- "unable to verify those files" my ass. the code is literally right infront of you, use your eyes...
-- "details of our verification process are private" ok u do u, but still give me a reason why it got denied like what...
+- "unable to verify those files" my ass. The code is literally right infront of you, use your eyes...
+- "details of our verification process are private" ok you do you, but still give me a reason why it got denied like what...
 
-i even scrapped the autoinstall for SAPI4 with a button and replaced with just opening it to the github archive
-that has the voice packages to make them happy-er. i guess nothing is enough? i dont know at this point.
+I even scrapped the autoinstall for SAPI4 with a button and replaced with just opening it to the github archive
+that has the voice packages to make them happy-er. I guess nothing is enough? I don't know at this point.
 
-## dont trust this or the process?
+## Don't trust this or the process?
 
-dont use it. its not required. its completely optional.
-"oh but i want it tho i dont trust it" yeah bad luck buddy, sorry but like what do you want me to do seriously?
+Do not use it. It's not required. It's completely optional.
+"Oh but I want it tho I don't trust it" yeah bad luck buddy, sorry but like what do you want me to do seriously?
